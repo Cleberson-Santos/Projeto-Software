@@ -18,3 +18,9 @@ Crie um repositório:
 Nome: gestao-configuracao-cafe
 Visibilidade: Privado (para controle de acesso)
 Inicialize com um README.md
+
+Configurar Proteção de Branches:
+
+Defina a main ou master como branch protegida.
+Ative revisões obrigatórias antes do merge.
+Configure integração com ferramentas ITSM (ServiceNow, Jira).
